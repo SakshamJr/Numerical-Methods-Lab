@@ -7,7 +7,7 @@ Overview:
 Contents:
 The repository includes lab works covering various topics in Numerical Methods, such as:
   1. Root Finding Methods (e.g., Bisection Method, Newton-Raphson Method)
-  2. Interpolation Techniques (e.g., Lagrange Interpolation, Newton's Divided Difference)
+  2. Interpolation Techniques (e.g., Lagrange Interpolation, Curve Fitting)
   3. Numerical Integration (e.g., Trapezoidal Rule, Simpson's Rule)
   4. Ordinary Differential Equations (e.g., Euler's Method, Runge-Kutta Methods)
   5. Eigen Values Calculator using Power Method.
