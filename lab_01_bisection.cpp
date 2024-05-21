@@ -32,3 +32,5 @@ int main()
     cout << "Root = " << c << endl;
     return 0;
 }
+
+// Thank You For Using My Code as a Reference
